@@ -7,6 +7,6 @@ After cloning the repo, you will have to do the following:
 4. Run: "php artisan migrate" to create the database. NOTE: make sure you edit the database name in the (.env) & (.env.example) files
 5. Run: "php artisan serve" to start a development server
 
-Good Luck!!
+Good Luck!!!
 
 **I used Visual Studio Code as my editor for this. Hence, all of the above commands work on it's in-built terminal.
